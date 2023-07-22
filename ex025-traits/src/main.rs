@@ -12,6 +12,7 @@ struct MyStruct;
 impl MyTrait for MyStruct {
     type Item = i32;
 
+    // "static method"
     fn create_item() -> Self::Item {
         // Self => Typ of implementing Struct
         42
