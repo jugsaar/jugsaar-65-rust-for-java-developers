@@ -1,0 +1,5 @@
+cargo new helloworld
+
+cargo run
+
+cargo new ex010-ownership 
