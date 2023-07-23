@@ -1,4 +1,5 @@
 // Defines the struct Point
+// #[derive(Debug)] // implements Debug traits
 struct Point {
     x: i32,
     y: i32,
@@ -15,4 +16,6 @@ impl Point {
 fn main() {
     let p = Point { x: 10, y: 20 };
     p.print_coordinates(); // Output: x: 10, y: 20
+
+    // print!("p = {:?}", p); // print "Debug" representation
 }
