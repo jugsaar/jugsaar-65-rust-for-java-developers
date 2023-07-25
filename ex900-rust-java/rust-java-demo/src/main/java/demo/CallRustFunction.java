@@ -15,7 +15,7 @@ public class CallRustFunction {
 
         lib_h.hello_world();
 
-        long sum = lib_h.compute_sum(3, 4);
-        System.out.println(sum);
+//        long sum = lib_h.compute_sum(3, 4);
+//        System.out.println(sum);
     }
 }
