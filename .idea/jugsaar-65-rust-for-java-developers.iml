@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ex001-helloworld/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ex003-strings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ex005-immutable/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ex010-ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ex020-structs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ex023c-struct-collect-lifetimes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ex025c-traits-generics/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ex027-traits-dyn/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ex550-macro-func/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ex900-rust-java/rust-java-lib/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ex025a-traits-simple/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ex025b-traits-instance/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ex300-enum-simple/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/ex001-helloworld/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ex003-strings/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ex005-immutable/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ex010-ownership/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ex020-structs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ex023c-struct-collect-lifetimes/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ex025c-traits-generics/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ex027-traits-dyn/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ex550-macro-func/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ex900-rust-java/rust-java-lib/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ex025a-traits-simple/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ex025b-traits-instance/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ex300-enum-simple/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

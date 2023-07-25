@@ -1,5 +1,5 @@
 [package]
-name = "ex025-traits-instance"
+name = "ex025a-traits-simple"
 version = "0.1.0"
 edition = "2021"
 

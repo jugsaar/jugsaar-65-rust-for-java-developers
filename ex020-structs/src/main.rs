@@ -1,5 +1,5 @@
 // Defines the struct Point
-// #[derive(Debug)] // implements Debug traits
+// #[derive(Debug)] // implements Debug trait
 struct Point {
     x: i32,
     y: i32,
