@@ -14,6 +14,7 @@
       <sourceFolder url="file://$MODULE_DIR$/ex900-rust-java/rust-java-lib/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ex025a-traits-simple/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ex025b-traits-instance/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ex027b-traits-dynamic-static/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ex300-enum-simple/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust-feature-tour/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/ex001-helloworld/target" />
@@ -28,6 +29,7 @@
       <excludeFolder url="file://$MODULE_DIR$/ex900-rust-java/rust-java-lib/target" />
       <excludeFolder url="file://$MODULE_DIR$/ex025a-traits-simple/target" />
       <excludeFolder url="file://$MODULE_DIR$/ex025b-traits-instance/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ex027b-traits-dynamic-static/target" />
       <excludeFolder url="file://$MODULE_DIR$/ex300-enum-simple/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust-feature-tour/target" />
     </content>
